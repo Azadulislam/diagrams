@@ -4,14 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lbTBGlX6CnxymrXP5cE9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lbTBGlX6CnxymrXP5cE9-1" target="lbTBGlX6CnxymrXP5cE9-2" edge="1">
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZnekJMXI3gKOSBBxYQD-1" target="NZnekJMXI3gKOSBBxYQD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lbTBGlX6CnxymrXP5cE9-1" value="&lt;font size=&quot;3&quot;&gt;Save Play List With Video&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="90" width="240" height="60" as="geometry" />
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lbTBGlX6CnxymrXP5cE9-2" value="&lt;font size=&quot;3&quot;&gt;Save Play List With Video&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="230" width="240" height="60" as="geometry" />
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZnekJMXI3gKOSBBxYQD-4" target="NZnekJMXI3gKOSBBxYQD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-4" value="open applicaton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-5" value="Show alert if not activated product&lt;br&gt;&lt;br&gt;and active now button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="70" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZnekJMXI3gKOSBBxYQD-8" target="NZnekJMXI3gKOSBBxYQD-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-8" value="Acitivate now" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NZnekJMXI3gKOSBBxYQD-9" target="NZnekJMXI3gKOSBBxYQD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-9" value="License application login to view your all product&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;enter select product, enter email, generate license&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-14" value="Logged in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-16" value="Select Product from list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-18" value="enter domain optional" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-19" value="enter domain optional" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-20" value="Guest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-22" value="Enter Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="480" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-23" value="Enter Domain (optional)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZnekJMXI3gKOSBBxYQD-24" value="Select Product" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
